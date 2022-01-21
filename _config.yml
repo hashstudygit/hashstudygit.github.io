@@ -1,1 +1,8 @@
 theme: jekyll-theme-leap-day
+
+defaults:
+	# Configs for SECTION : 
+	  - scope:
+	      path: system-design
+	    values:
+	      subsection: system-design
