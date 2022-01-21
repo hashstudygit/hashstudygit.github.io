@@ -1,4 +1,5 @@
-theme: jekyll-theme-primer
+theme: jekyll-theme-architect
+
 
 defaults:
 # Configs for SECTION : system-design
