@@ -1,10 +1,7 @@
 theme: jekyll-theme-primer
-	
-disqus:
-  shortname: hashstudygit
 
 defaults:
-# Configs for SECTION : 
+# Configs for SECTION : system-design
   - scope:
       path: system-design
     values:
