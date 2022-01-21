@@ -1,7 +1,7 @@
 theme: jekyll-theme-primer
 	
 disqus:
-	  shortname: hashstudygit
+  shortname: hashstudygit
 
 defaults:
 # Configs for SECTION : 
