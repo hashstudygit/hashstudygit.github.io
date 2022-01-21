@@ -1,11 +1,11 @@
- 	theme: jekyll-theme-primer
+theme: jekyll-theme-primer
 	
-	disqus:
-	    shortname: hashstudygit
+disqus:
+	  shortname: hashstudygit
 
 defaults:
-	# Configs for SECTION : 
-	  - scope:
-	      path: system-design
-	    values:
-	      subsection: system-design
+# Configs for SECTION : 
+  - scope:
+      path: system-design
+    values:
+      subsection: system-design
